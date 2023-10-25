@@ -3,6 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajihkharissuha12&label=Profile%20views&color=0e75b6&style=flat" alt="rajihkharissuha12" /> </p>
 
+# About
+<img align='right' src='https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif' width='200'>
+
+I am a Backend Engineer with two year of experience in application development. Proficient in NodeJS, I excel in-depth
+analysis, and a creative problem solving. I’ve implemented microservices to enhance user experience. I’m seeking
+opportunities in a company that values innovation and creativity and I’m versatile in both backend and frontend
+development.
+
 - 🔭 I’m currently working on [HrCerdas](http://hrcerdas.id/)
 
 - 👨‍💻 All of my projects are available at [https://rajihkharissuha12.github.io/](https://rajihkharissuha12.github.io/)
@@ -13,13 +21,23 @@
 
 - ⚡ Fun fact **sometimes I don't only work on the Back End but I also do other things**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rajih-kharissuha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajih-kharissuha/" height="30" width="40" /></a>
-</p>
+# Connect with me :
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rajih-kharissuha/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+#  Skills 🛠️
+- **Languages**:
+  
+  - [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+- **Framework**:  &nbsp;&nbsp;          
+  
+  - [![My Skills](https://skillicons.dev/icons?i=express,nestjs,nextjs,react)](https://skillicons.dev)
+- **Database**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  - [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
+- **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;
+
+  - [![My Skills](https://skillicons.dev/icons?i=aws,linux,docker,git)](https://skillicons.dev)
+
 
 <!-- <h3 align="left">GitHub Stats:</h3> -->
 
