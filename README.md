@@ -11,7 +11,7 @@ analysis, and a creative problem solving. I’ve implemented microservices to en
 opportunities in a company that values innovation and creativity and I’m versatile in both backend and frontend
 development.
 
-- 🔭 I’m currently working on [HrCerdas](http://hrcerdas.id/)
+- 🔭 I’m currently working on [NTT Data Indonesia](https://www.nttdata.com/id/en)
 
 - 👨‍💻 All of my projects are available at [https://rajihkharissuha12.github.io/](https://rajihkharissuha12.github.io/)
 
