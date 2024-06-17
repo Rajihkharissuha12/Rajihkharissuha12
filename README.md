@@ -13,7 +13,7 @@ development.
 
 - 🔭 I’m currently working on [NTT Data Indonesia](https://www.nttdata.com/id/en)
 
-- 👨‍💻 All of my projects are available at [https://rajihkharissuha12.github.io/](https://rajihkharissuha12.github.io/)
+- 👨‍💻 All of my projects are available at [Rajih Kharissuha](https://rajihkharissuha12.github.io/)
 
 - 💬 Ask me about **nodeJS,Express,MongoDB,Javascript**
 
